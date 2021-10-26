@@ -68,7 +68,7 @@ public class ImportData {
             Toast.makeText(context, "Fill Ip and Company No", Toast.LENGTH_SHORT).show();
         }
 
-    //    headerDll="/Falcons/VAN.Dll/";
+        headerDll="/Falcons/VAN.Dll/";
     }
     public void getAllItems(){
         pdRepla = new SweetAlertDialog(context, SweetAlertDialog.PROGRESS_TYPE);
@@ -92,7 +92,7 @@ public class ImportData {
 
     }
     private void getIpAddress() {
-//        headerDll="";
+        headerDll="";
         ipAddress=my_dataBase.settingDao().getIpAddress().trim();
         CONO=my_dataBase.settingDao().getCono().trim();
         Log.e("getIpAddress",""+ipAddress);
