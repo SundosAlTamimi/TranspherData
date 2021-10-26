@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#043b6e</color>
+    <color name="colorPrimaryDark">#043b6e</color>
+    <color name="colorAccent">#fad80a</color>
+    <color name="layer1">#B6B6B4</color>
+    <color name="layer2">#D1D0CE</color>
+    <color name="layer3">#ECECEB</color>
+    <color name="layer4">#F2B4C3CC</color>
+    <color name="layer5">#CFD8DC</color>
+    <color name="layer6">#CBECECEB</color>
+    <color name="layer7">#F3F8F8F7</color>
+    <color name="yelow">#fad80a</color>
+    <color name="red">#e1161f</color>
+    <color name="add_button">#25383C</color>
+    <color name="orange">#F0B005</color>
+    <color name="purble1">#B4B798EE</color>
+    <color name="purble0">#304EF3</color>
+    <color name="colorblue1">#3F86B5</color>
+    <color name="colorblue_dark">#04578A</color>
+    <color name="dark_blue_3">#043b6e</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_alphe">#9E9C9A9A</color>
+
+
+    <color name="white_dark">#E9FFFFFF</color>
+    <color name="darkblue_">#DF075F8B</color>
+    <color name="text_color">#25383C</color>
+    <color name="white_two">#85E4DCDC</color>
+    <color name="darkOrange2">#D8FFEB3B</color>
+</resources>
